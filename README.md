@@ -1,4 +1,4 @@
-# velocidad
+# Velocidad de escape
 calcular al Velocidad de escape
 
 La velocidad de escape de un planeta (la velocidad mínima necesaria para poder salir de un
